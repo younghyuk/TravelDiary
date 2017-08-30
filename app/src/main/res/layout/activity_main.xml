@@ -26,5 +26,5 @@
             android:gravity="center"
             android:text="AAR Check"
             tools:layout_editor_absoluteX="142dp"
-            tools:layout_editor_absoluteY="281dp" />
+            tools:layout_editor_absoluteY="281dp"/>
 </LinearLayout>
